@@ -1,0 +1,65 @@
+[
+  {
+    "video_id": "4qxROUatTzk",
+    "url": "https://www.youtube.com/watch?v=4qxROUatTzk",
+    "title": "The Science of Learning New Things | Tania Lombrozo | TED",
+    "channel_name": "TED",
+    "channel_id": "UCAuUUnT6oDeKwE6v1NGQxug",
+    "channel_url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
+    "published_date": "2026-11-15",
+    "duration_seconds": 937,
+    "view_count": 224793,
+    "like_count": 2351,
+    "channel_subscribers": 28000000,
+    "description": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she explores why more information can actually make learning h [...]",
+    "keywords": [
+      "TEDTalk",
+      "TEDTalks",
+      "TED Talk",
+      "TED Talks",
+      "TED"
+    ],
+    "is_live": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/4qxROUatTzk/hqdefault.jpg",
+    "language": "en",
+    "language_name": "English",
+    "is_auto_generated": false,
+    "is_translated": false,
+    "translated_from": null,
+    "available_languages": [
+      {
+        "language": "ar",
+        "name": "Arabic",
+        "auto_generated": false,
+        "original": false
+      },
+      {
+        "language": "zh-TW",
+        "name": "Chinese (Taiwan)",
+        "auto_generated": false,
+        "original": false
+      },
+      {
+        "language": "en",
+        "name": "English",
+        "auto_generated": false,
+        "original": true
+      },
+      {
+        "language": "en",
+        "name": "English (auto-generated)",
+        "auto_generated": true,
+        "original": true
+      }
+    ],
+    "transcript": "Software engineers have a delightful practice called rubber ducking. When they run into a problem with their code, they'll explain it to a rubber duck. They'll work step by step, line by line, and some of the time they'll learn something new. But how can this work? The ducks don't talk back, so the programmers are explaining to themselves. They're not getting any new information. And yet, something about this process helps them learn. Rubber ducking is an example of what I call learning by thinking. And understanding how learning by thinking works is the key to becoming a better learner. Now m [...]",
+    "segments": null,
+    "srt": null,
+    "vtt": null,
+    "segment_count": 262,
+    "source": "https://www.youtube.com/watch?v=4qxROUatTzk",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:37:11Z"
+  }
+]

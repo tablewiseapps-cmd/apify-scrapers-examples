@@ -1,0 +1,50 @@
+[
+  {
+    "domain": "github.com",
+    "authority_score": 100,
+    "backlinks": 5391798656,
+    "referring_domains": 4384519,
+    "monthly_visits": 1074908407,
+    "pages_per_visit": 5.8732,
+    "bounce_rate": 0.3963,
+    "google_penalty_risk": "Low",
+    "data_date": "2026-10-01",
+    "source_url": "https://www.semrush.com/website/github.com/overview/",
+    "input": "github.com",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:31:37Z"
+  },
+  {
+    "domain": "notion.so",
+    "authority_score": 51,
+    "backlinks": 20111001,
+    "referring_domains": 189415,
+    "monthly_visits": 16880598,
+    "pages_per_visit": 3.7913,
+    "bounce_rate": 0.6799,
+    "google_penalty_risk": "Low",
+    "data_date": "2026-10-01",
+    "source_url": "https://www.semrush.com/website/notion.so/overview/",
+    "input": "notion.so",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:31:39Z"
+  },
+  {
+    "domain": "shopify.com",
+    "authority_score": 85,
+    "backlinks": 1530385538,
+    "referring_domains": 4785673,
+    "monthly_visits": 253067260,
+    "pages_per_visit": 9.1695,
+    "bounce_rate": 0.4528,
+    "google_penalty_risk": "Low",
+    "data_date": "2026-10-01",
+    "source_url": "https://www.semrush.com/website/shopify.com/overview/",
+    "input": "shopify.com",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:31:40Z"
+  }
+]

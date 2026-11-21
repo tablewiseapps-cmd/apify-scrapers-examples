@@ -1,0 +1,186 @@
+[
+  {
+    "input": "https://apify.com/",
+    "domain": "apify.com",
+    "url": "https://apify.com/",
+    "status": "ok",
+    "status_message": null,
+    "emails": [
+      "hello@apify.com",
+      "support@apify.com"
+    ],
+    "phones": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/apify"
+    ],
+    "facebook": [],
+    "instagram": [],
+    "twitter": [
+      "https://x.com/apify"
+    ],
+    "youtube": [
+      "https://www.youtube.com/apify"
+    ],
+    "tiktok": [
+      "https://www.tiktok.com/@apifytech",
+      "https://www.tiktok.com/@apifyoffice"
+    ],
+    "pinterest": [],
+    "telegram": [],
+    "whatsapp": [],
+    "discord": [
+      "https://discord.com/invite/jyEM2PRvMU",
+      "https://discord.gg/w3e2v7rWDw"
+    ],
+    "threads": [],
+    "contact_page_url": "https://apify.com/contact",
+    "contact_form_url": null,
+    "company_name": "Apify",
+    "company_address": "Na Příkopě 959/27, 11000, Prague, CZ",
+    "cloudflare_emails": 0,
+    "email_details": [
+      {
+        "email": "hello@apify.com",
+        "type": "generic",
+        "domain_match": true,
+        "found_on": [
+          "https://apify.com/contact"
+        ]
+      },
+      {
+        "email": "support@apify.com",
+        "type": "generic",
+        "domain_match": true,
+        "found_on": [
+          "https://apify.com/",
+          "https://apify.com/contact",
+          "https://apify.com/about"
+        ]
+      }
+    ],
+    "phone_details": [],
+    "pages_crawled": [
+      "https://apify.com/",
+      "https://apify.com/contact",
+      "https://apify.com/about"
+    ],
+    "scraped_at": "2026-11-21T00:36:36Z"
+  },
+  {
+    "input": "https://buffer.com/",
+    "domain": "buffer.com",
+    "url": "https://buffer.com/",
+    "status": "ok",
+    "status_message": null,
+    "emails": [
+      "hello@buffer.com"
+    ],
+    "phones": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/bufferapp"
+    ],
+    "facebook": [
+      "https://www.facebook.com/bufferapp"
+    ],
+    "instagram": [
+      "https://www.instagram.com/buffer"
+    ],
+    "twitter": [
+      "https://x.com/buffer"
+    ],
+    "youtube": [
+      "https://www.youtube.com/bufferapp"
+    ],
+    "tiktok": [],
+    "pinterest": [],
+    "telegram": [],
+    "whatsapp": [],
+    "discord": [
+      "https://discord.gg/aQdKKr6kDY"
+    ],
+    "threads": [
+      "https://www.threads.net/@buffer"
+    ],
+    "contact_page_url": null,
+    "contact_form_url": null,
+    "company_name": "Buffer",
+    "company_address": null,
+    "cloudflare_emails": 0,
+    "email_details": [
+      {
+        "email": "hello@buffer.com",
+        "type": "generic",
+        "domain_match": true,
+        "found_on": [
+          "https://buffer.com/nonprofits?cta=bufferSite-globalNav-madeFor-nonprofits-1"
+        ]
+      }
+    ],
+    "phone_details": [],
+    "pages_crawled": [
+      "https://buffer.com/",
+      "https://buffer.com/about",
+      "https://buffer.com/nonprofits?cta=bufferSite-globalNav-madeFor-nonprofits-1"
+    ],
+    "scraped_at": "2026-11-21T00:36:36Z"
+  },
+  {
+    "input": "https://www.hootsuite.com/",
+    "domain": "hootsuite.com",
+    "url": "https://www.hootsuite.com/",
+    "status": "ok",
+    "status_message": null,
+    "emails": [
+      "proposals@hootsuite.com"
+    ],
+    "phones": [],
+    "linkedin": [
+      "https://www.linkedin.com/company/hootsuite"
+    ],
+    "facebook": [
+      "https://www.facebook.com/hootsuite"
+    ],
+    "instagram": [
+      "https://www.instagram.com/hootsuite"
+    ],
+    "twitter": [
+      "https://x.com/hootsuite",
+      "https://x.com/Hootsuite_Help"
+    ],
+    "youtube": [
+      "https://www.youtube.com/user/hootsuite"
+    ],
+    "tiktok": [
+      "https://www.tiktok.com/@hootsuite"
+    ],
+    "pinterest": [
+      "https://www.pinterest.com/hootsuite"
+    ],
+    "telegram": [],
+    "whatsapp": [],
+    "discord": [],
+    "threads": [],
+    "contact_page_url": "https://www.hootsuite.com/about/contact-us",
+    "contact_form_url": null,
+    "company_name": null,
+    "company_address": null,
+    "cloudflare_emails": 0,
+    "email_details": [
+      {
+        "email": "proposals@hootsuite.com",
+        "type": "other",
+        "domain_match": true,
+        "found_on": [
+          "https://www.hootsuite.com/about/contact-us"
+        ]
+      }
+    ],
+    "phone_details": [],
+    "pages_crawled": [
+      "https://www.hootsuite.com/",
+      "https://www.hootsuite.com/about/contact-us",
+      "https://www.hootsuite.com/about/hootgiving"
+    ],
+    "scraped_at": "2026-11-21T00:36:36Z"
+  }
+]

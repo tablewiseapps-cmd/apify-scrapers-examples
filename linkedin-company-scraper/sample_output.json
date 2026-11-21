@@ -1,0 +1,406 @@
+[
+  {
+    "input": "airbnb",
+    "linkedin_url": "https://www.linkedin.com/company/airbnb/",
+    "universal_name": "airbnb",
+    "company_id": "309694",
+    "page_type": "company",
+    "name": "Airbnb",
+    "tagline": "Airbnb is a community based on connection and belonging.",
+    "description": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays, experiences and services that make it p [...]",
+    "website": "http://airbnb.com",
+    "industry": "Software Development",
+    "company_size": "5,001-10,000 employees",
+    "company_size_min": 5001,
+    "company_size_max": 10000,
+    "employees_on_linkedin": 73093,
+    "followers": 3547297,
+    "headquarters": "San Francisco, CA",
+    "hq_street": "888 Brannan Street",
+    "hq_city": "San Francisco",
+    "hq_region": "CA",
+    "hq_postal_code": "94103",
+    "hq_country": "US",
+    "company_type": "Public Company",
+    "founded_year": 2007,
+    "specialties": [
+      "travel accommodations",
+      "collaborative economy",
+      "hospitality"
+    ],
+    "locations": [
+      {
+        "is_headquarters": true,
+        "street": "888 Brannan Street",
+        "city": "San Francisco",
+        "region": "CA",
+        "postal_code": "94103",
+        "country": "US",
+        "address": "888 Brannan Street, San Francisco, CA 94103, US"
+      },
+      {
+        "is_headquarters": false,
+        "street": "158 Cecil St",
+        "city": "Singapore",
+        "region": "Singapore",
+        "postal_code": "069545",
+        "country": "SG",
+        "address": "158 Cecil St, Singapore, Singapore 069545, SG"
+      }
+    ],
+    "locations_count": 3,
+    "similar_companies": [
+      {
+        "name": "Netflix",
+        "industry": "Entertainment Providers",
+        "location": "Los Gatos, CA",
+        "linkedin_url": "https://www.linkedin.com/company/netflix/"
+      },
+      {
+        "name": "Spotify",
+        "industry": "Musicians",
+        "location": "Stockholm, Stockholm County",
+        "linkedin_url": "https://www.linkedin.com/company/spotify/"
+      },
+      {
+        "name": "Booking.com",
+        "industry": "Software Development",
+        "location": "Amsterdam, North Holland",
+        "linkedin_url": "https://www.linkedin.com/company/booking.com/"
+      },
+      {
+        "name": "Stripe",
+        "industry": "Technology, Information and Internet",
+        "location": "South San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/company/stripe/"
+      },
+      {
+        "name": "Google",
+        "industry": "Software Development",
+        "location": "Mountain View, CA",
+        "linkedin_url": "https://www.linkedin.com/company/google/"
+      },
+      {
+        "name": "Pinterest",
+        "industry": "Software Development",
+        "location": "San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/company/pinterest/"
+      },
+      {
+        "name": "Amazon",
+        "industry": "Software Development",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/company/amazon/"
+      },
+      {
+        "name": "Uber",
+        "industry": "Internet Marketplace Platforms",
+        "location": "San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/company/uber-com/"
+      },
+      {
+        "name": "Expedia Group",
+        "industry": "Software Development",
+        "location": "Seattle, WA",
+        "linkedin_url": "https://www.linkedin.com/company/expediagroup/"
+      },
+      {
+        "name": "Meta",
+        "industry": "Software Development",
+        "location": "Menlo Park, CA",
+        "linkedin_url": "https://www.linkedin.com/company/meta/"
+      }
+    ],
+    "affiliated_pages": [
+      {
+        "name": "Airbnb for Work",
+        "industry": "Hospitality",
+        "location": "San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/showcase/airbnb-for-work/"
+      },
+      {
+        "name": "Airbnb Host Community",
+        "industry": "Software Development",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/showcase/airbnb-host-community/"
+      },
+      {
+        "name": "Luxury Retreats",
+        "industry": "Travel Arrangements",
+        "location": "Montreal, Quebec",
+        "linkedin_url": "https://www.linkedin.com/company/luxury-retreats/"
+      },
+      {
+        "name": "Airbnb.org",
+        "industry": "Non-profit Organizations",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/showcase/airbnb-dot-org/"
+      },
+      {
+        "name": "Airbnb Public Policy",
+        "industry": "Software Development",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/showcase/airbnb-policy/"
+      }
+    ],
+    "logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFhfl32crIGIw/company-logo_200_200/company-logo_200_200/0/1630637496980/airbnb_logo?e=2147483647&v=beta&t=DM3Ato8740GzY9eDPP_-yOTo68rXQlVD9YK4n3hR3Is",
+    "cover_image_url": "https://media.licdn.com/dms/image/v2/D4E3DAQH-mJDNhcaE9A/image-scale_191_1128/image-scale_191_1128/0/1664566500675/airbnb_cover?e=2147483647&v=beta&t=Tp40WpTd8vsU4aaG0svNDc9VIbYj4yiFZzfT9oV3ido",
+    "jobs_url": "https://www.linkedin.com/jobs/airbnb-jobs-worldwide?f_C=309694",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:33:00Z"
+  },
+  {
+    "input": "https://www.linkedin.com/company/netflix/",
+    "linkedin_url": "https://www.linkedin.com/company/netflix/",
+    "universal_name": "netflix",
+    "company_id": "165158",
+    "page_type": "company",
+    "name": "Netflix",
+    "tagline": "Play, pause, and resume watching anytime and anywhere.",
+    "description": "Netflix is one of the world’s leading entertainment services offering TV series, films, games and live programming across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.",
+    "website": "https://jobs.netflix.com?utm_campaign=LIHomePage&utm_source=linkedin",
+    "industry": "Entertainment Providers",
+    "company_size": "10,001+ employees",
+    "company_size_min": 10001,
+    "company_size_max": null,
+    "employees_on_linkedin": 19039,
+    "followers": 12242112,
+    "headquarters": "Los Gatos, CA",
+    "hq_street": "100 Winchester Circle",
+    "hq_city": "Los Gatos",
+    "hq_region": "CA",
+    "hq_postal_code": null,
+    "hq_country": "US",
+    "company_type": "Public Company",
+    "founded_year": 1997,
+    "specialties": [
+      "Revolutionizing the way people watch TV shows and movies!"
+    ],
+    "locations": [
+      {
+        "is_headquarters": true,
+        "street": "100 Winchester Circle",
+        "city": "Los Gatos",
+        "region": "CA",
+        "postal_code": null,
+        "country": "US",
+        "address": "100 Winchester Circle, Los Gatos, CA, US"
+      },
+      {
+        "is_headquarters": false,
+        "street": "5808 W Sunset Blvd",
+        "city": "Los Angeles",
+        "region": "CA",
+        "postal_code": "90028",
+        "country": "US",
+        "address": "5808 W Sunset Blvd, Los Angeles, CA 90028, US"
+      }
+    ],
+    "locations_count": 7,
+    "similar_companies": [
+      {
+        "name": "Spotify",
+        "industry": "Musicians",
+        "location": "Stockholm, Stockholm County",
+        "linkedin_url": "https://www.linkedin.com/company/spotify/"
+      },
+      {
+        "name": "Google",
+        "industry": "Software Development",
+        "location": "Mountain View, CA",
+        "linkedin_url": "https://www.linkedin.com/company/google/"
+      },
+      {
+        "name": "Amazon",
+        "industry": "Software Development",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/company/amazon/"
+      },
+      {
+        "name": "Apple",
+        "industry": "Computers and Electronics Manufacturing",
+        "location": "Cupertino, California",
+        "linkedin_url": "https://www.linkedin.com/company/apple/"
+      },
+      {
+        "name": "Meta",
+        "industry": "Software Development",
+        "location": "Menlo Park, CA",
+        "linkedin_url": "https://www.linkedin.com/company/meta/"
+      },
+      {
+        "name": "Microsoft",
+        "industry": "Software Development",
+        "location": "Redmond, Washington",
+        "linkedin_url": "https://www.linkedin.com/company/microsoft/"
+      },
+      {
+        "name": "The Walt Disney Company",
+        "industry": "Entertainment Providers",
+        "location": "Burbank, CA",
+        "linkedin_url": "https://www.linkedin.com/company/the-walt-disney-company/"
+      },
+      {
+        "name": "Airbnb",
+        "industry": "Software Development",
+        "location": "San Francisco, CA",
+        "linkedin_url": "https://www.linkedin.com/company/airbnb/"
+      },
+      {
+        "name": "Warner Bros. Discovery",
+        "industry": "Entertainment Providers",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/company/warner-bros-discovery/"
+      },
+      {
+        "name": "TikTok",
+        "industry": "Entertainment Providers",
+        "location": "Los Angeles, California",
+        "linkedin_url": "https://www.linkedin.com/company/tiktok/"
+      }
+    ],
+    "affiliated_pages": [],
+    "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_200_200/company-logo_200_200/0/1736276678240/netflix_logo?e=2147483647&v=beta&t=-84GbYZIgL-lNtKMkXAk-OE1L6VJVMfBSLJRG8FLkVY",
+    "cover_image_url": "https://media.licdn.com/dms/image/v2/D4E3DAQEKmQHFFvC4Fw/image-scale_191_1128/image-scale_191_1128/0/1736891212728/netflix_cover?e=2147483647&v=beta&t=SsN1pLcKzV7i5hmwPbqUeiUs0C37A8UkNk1ilhIl9YA",
+    "jobs_url": "https://www.linkedin.com/jobs/netflix-jobs-worldwide?f_C=165158",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:33:00Z"
+  },
+  {
+    "input": "stripe",
+    "linkedin_url": "https://www.linkedin.com/company/stripe/",
+    "universal_name": "stripe",
+    "company_id": "2135371",
+    "page_type": "company",
+    "name": "Stripe",
+    "tagline": "Help increase the GDP of the internet.",
+    "description": "Stripe builds programmable financial services. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Headquartered in San Francisco and Dublin, the company aims to increa [...]",
+    "website": "https://stripe.com",
+    "industry": "Technology, Information and Internet",
+    "company_size": "5,001-10,000 employees",
+    "company_size_min": 5001,
+    "company_size_max": 10000,
+    "employees_on_linkedin": 16690,
+    "followers": 1834179,
+    "headquarters": "South San Francisco, California",
+    "hq_street": "354 Oyster Point Blvd",
+    "hq_city": "South San Francisco",
+    "hq_region": "California",
+    "hq_postal_code": "94080",
+    "hq_country": "US",
+    "company_type": "Privately Held",
+    "founded_year": 2010,
+    "specialties": [],
+    "locations": [
+      {
+        "is_headquarters": true,
+        "street": "354 Oyster Point Blvd",
+        "city": "South San Francisco",
+        "region": "California",
+        "postal_code": "94080",
+        "country": "US",
+        "address": "354 Oyster Point Blvd, South San Francisco, California 94080, US"
+      },
+      {
+        "is_headquarters": false,
+        "street": "1 Wilton Park, Wilton Terrace",
+        "city": "Dublin",
+        "region": "County Dublin",
+        "postal_code": "D02 FX04",
+        "country": "IE",
+        "address": "1 Wilton Park, Wilton Terrace, Dublin, County Dublin D02 FX04, IE"
+      }
+    ],
+    "locations_count": 14,
+    "similar_companies": [
+      {
+        "name": "Atlassian",
+        "industry": "Software Development",
+        "location": "Sydney, NSW",
+        "linkedin_url": "https://www.linkedin.com/company/atlassian/"
+      },
+      {
+        "name": "Revolut",
+        "industry": "Financial Services",
+        "location": "London, England",
+        "linkedin_url": "https://www.linkedin.com/company/revolut/"
+      },
+      {
+        "name": "Airbnb",
+        "industry": "Software Development",
+        "location": "San Francisco, CA",
+        "linkedin_url": "https://www.linkedin.com/company/airbnb/"
+      },
+      {
+        "name": "Anthropic",
+        "industry": "Research Services",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/company/anthropicresearch/"
+      },
+      {
+        "name": "Salesforce",
+        "industry": "Software Development",
+        "location": "San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/company/salesforce/"
+      },
+      {
+        "name": "Wise",
+        "industry": "Financial Services",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/company/wiseaccount/"
+      },
+      {
+        "name": "Google",
+        "industry": "Software Development",
+        "location": "Mountain View, CA",
+        "linkedin_url": "https://www.linkedin.com/company/google/"
+      },
+      {
+        "name": "Rippling",
+        "industry": "Software Development",
+        "location": "San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/company/rippling/"
+      },
+      {
+        "name": "Databricks",
+        "industry": "Artificial Intelligence",
+        "location": "San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/company/databricks/"
+      },
+      {
+        "name": "Ramp",
+        "industry": "Financial Services",
+        "location": "New York, New York",
+        "linkedin_url": "https://www.linkedin.com/company/ramp/"
+      }
+    ],
+    "affiliated_pages": [
+      {
+        "name": "Stripe Partner Ecosystem",
+        "industry": "Internet Publishing",
+        "location": "South San Francisco, California",
+        "linkedin_url": "https://www.linkedin.com/showcase/stripe-partner-ecosystem/"
+      },
+      {
+        "name": "Stripe Support",
+        "industry": "Technology, Information and Internet",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/showcase/stripe-support/"
+      },
+      {
+        "name": "Stripe Community Builders",
+        "industry": "Technology, Information and Internet",
+        "location": null,
+        "linkedin_url": "https://www.linkedin.com/showcase/stripe-community-builders/"
+      }
+    ],
+    "logo_url": "https://media.licdn.com/dms/image/v2/D560BAQE2ZfJyfn-VCg/company-logo_200_200/B56ZlyKwpUKIAI-/0/1758557047806/stripe_logo?e=2147483647&v=beta&t=En4Hm6NDGbDTYCoOQ0Ko5Ne2gylx0WRb0yL2GlOeXBQ",
+    "cover_image_url": "https://media.licdn.com/dms/image/v2/D563DAQFt98MykXcktg/image-scale_191_1128/B56Z352EMMKIAY-/0/1778013193531/stripe_cover?e=2147483647&v=beta&t=UwiZWbPrYkD77DpQmZIjVuuqKMCfyZ-e-YcHE336MlY",
+    "jobs_url": "https://www.linkedin.com/jobs/stripe-jobs-worldwide?f_C=2135371",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-21T00:33:00Z"
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "terms": [
+      "chatgpt",
+      "gemini",
+      "claude"
+    ],
+    "is_comparison": true,
+    "geo": "US",
+    "time_range": "today 12-m",
+    "time_range_resolved": "2025-11-22 2026-11-22",
+    "resolution": "WEEK",
+    "category": 0,
+    "property": "web",
+    "has_data": true,
+    "averages": {
+      "chatgpt": 84,
+      "gemini": 33,
+      "claude": 23
+    },
+    "timeline": [
+      {
+        "date": "2025-11-16T00:00:00Z",
+        "label": "Nov 16 – 22, 2025",
+        "values": {
+          "chatgpt": 100,
+          "gemini": 29,
+          "claude": 7
+        },
+        "partial": false
+      },
+      {
+        "date": "2025-11-23T00:00:00Z",
+        "label": "Nov 23 – 29, 2025",
+        "values": {
+          "chatgpt": 70,
+          "gemini": 25,
+          "claude": 6
+        },
+        "partial": false
+      },
+      "...",
+      {
+        "date": "2026-11-22T00:00:00Z",
+        "label": "Nov 22 – 28, 2026",
+        "values": {
+          "chatgpt": 61,
+          "gemini": 30,
+          "claude": 21
+        },
+        "partial": true
+      }
+    ],
+    "regions": [
+      {
+        "geo_code": "US-DC",
+        "geo_name": "District of Columbia",
+        "values": {
+          "chatgpt": 57,
+          "gemini": 20,
+          "claude": 23
+        }
+      },
+      {
+        "geo_code": "US-CA",
+        "geo_name": "California",
+        "values": {
+          "chatgpt": 56,
+          "gemini": 25,
+          "claude": 19
+        }
+      },
+      {
+        "geo_code": "US-WY",
+        "geo_name": "Wyoming",
+        "values": {
+          "chatgpt": 56,
+          "gemini": 21,
+          "claude": 23
+        }
+      },
+      "..."
+    ],
+    "related_queries": {
+      "chatgpt": {
+        "top": [
+          {
+            "query": "ai chatgpt",
+            "value": 100
+          },
+          {
+            "query": "openai",
+            "value": 68
+          },
+          {
+            "query": "chatgpt login",
+            "value": 59
+          },
+          "..."
+        ],
+        "rising": [
+          {
+            "query": "codex",
+            "value": 1100,
+            "formatted": "+1,100%"
+          },
+          {
+            "query": "chatgpt 官网",
+            "value": 400,
+            "formatted": "+400%"
+          },
+          {
+            "query": "claude vs chatgpt",
+            "value": 250,
+            "formatted": "+250%"
+          },
+          "..."
+        ]
+      },
+      "gemini": {
+        "top": [
+          {
+            "query": "google gemini",
+            "value": 100
+          },
+          {
+            "query": "gemini ai",
+            "value": 88
+          },
+          {
+            "query": "what is gemini",
+            "value": 23
+          },
+          "..."
+        ],
+        "rising": [
+          {
+            "query": "gemini 3.5 pro",
+            "value": 900,
+            "formatted": "+900%"
+          },
+          {
+            "query": "gemini omni",
+            "value": 650,
+            "formatted": "+650%"
+          },
+          {
+            "query": "gemini spark",
+            "value": 400,
+            "formatted": "+400%"
+          },
+          "..."
+        ]
+      },
+      "claude": {
+        "top": [
+          {
+            "query": "ai claude",
+            "value": 100
+          },
+          {
+            "query": "claude code",
+            "value": 78
+          },
+          {
+            "query": "claude anthropic",
+            "value": 31
+          },
+          "..."
+        ],
+        "rising": [
+          {
+            "query": "claude cowork",
+            "value": 102850,
+            "formatted": "Breakout"
+          },
+          {
+            "query": "claude fable",
+            "value": 18100,
+            "formatted": "Breakout"
+          },
+          {
+            "query": "claude mythos",
+            "value": 17550,
+            "formatted": "Breakout"
+          },
+          "..."
+        ]
+      }
+    },
+    "missing_parts": [],
+    "explore_url": "https://trends.google.com/trends/explore?q=chatgpt%2Cgemini%2Cclaude&date=today%2012-m&geo=US",
+    "input": "chatgpt, gemini, claude",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-22T15:05:47Z"
+  },
+  {
+    "terms": [
+      "air fryer"
+    ],
+    "is_comparison": false,
+    "geo": "US",
+    "time_range": "today 12-m",
+    "time_range_resolved": "2025-11-22 2026-11-22",
+    "resolution": "WEEK",
+    "category": 0,
+    "property": "web",
+    "has_data": true,
+    "averages": null,
+    "timeline": [
+      {
+        "date": "2025-11-16T00:00:00Z",
+        "label": "Nov 16 – 22, 2025",
+        "values": {
+          "air fryer": 58
+        },
+        "partial": false
+      },
+      {
+        "date": "2025-11-23T00:00:00Z",
+        "label": "Nov 23 – 29, 2025",
+        "values": {
+          "air fryer": 69
+        },
+        "partial": false
+      },
+      "...",
+      {
+        "date": "2026-11-22T00:00:00Z",
+        "label": "Nov 22 – 28, 2026",
+        "values": {
+          "air fryer": 54
+        },
+        "partial": true
+      }
+    ],
+    "regions": [
+      {
+        "geo_code": "US-WY",
+        "geo_name": "Wyoming",
+        "values": {
+          "air fryer": 100
+        }
+      },
+      {
+        "geo_code": "US-KS",
+        "geo_name": "Kansas",
+        "values": {
+          "air fryer": 37
+        }
+      },
+      {
+        "geo_code": "US-OH",
+        "geo_name": "Ohio",
+        "values": {
+          "air fryer": 34
+        }
+      },
+      "..."
+    ],
+    "related_queries": {
+      "air fryer": {
+        "top": [
+          {
+            "query": "air fryer chicken",
+            "value": 100
+          },
+          {
+            "query": "air fryer oven",
+            "value": 67
+          },
+          {
+            "query": "air fryer ninja",
+            "value": 58
+          },
+          "..."
+        ],
+        "rising": [
+          {
+            "query": "best air fryer 2026",
+            "value": 4400,
+            "formatted": "+4,400%"
+          },
+          {
+            "query": "ninja crispi pro air fryer",
+            "value": 1100,
+            "formatted": "+1,100%"
+          },
+          {
+            "query": "ninja french door air fryer",
+            "value": 950,
+            "formatted": "+950%"
+          },
+          "..."
+        ]
+      }
+    },
+    "missing_parts": [],
+    "explore_url": "https://trends.google.com/trends/explore?q=air%20fryer&date=today%2012-m&geo=US",
+    "input": "air fryer",
+    "status": "ok",
+    "status_message": null,
+    "scraped_at": "2026-11-22T15:05:56Z"
+  }
+]

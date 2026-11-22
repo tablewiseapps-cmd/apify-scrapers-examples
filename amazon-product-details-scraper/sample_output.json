@@ -1,0 +1,136 @@
+[
+  {
+    "asin": "B09Y8C185M",
+    "url": "https://www.amazon.com/dp/B09Y8C185M",
+    "title": "Tapo 2K Pan Tilt Security Camera for Baby Monitor, Dog Camera, C210P2",
+    "brand": "TP-Link",
+    "authors": [],
+    "price": 41.99,
+    "currency": "USD",
+    "price_source": "buybox",
+    "list_price": 54.99,
+    "subscribe_save_price": null,
+    "used_price": null,
+    "availability": "In Stock",
+    "rating": 4.5,
+    "reviews_count": 23748,
+    "bought_past_month": "5K+ bought in past month",
+    "bought_past_month_min": 5000,
+    "best_sellers_rank": [
+      {
+        "rank": 1,
+        "category": "Dome Surveillance Cameras"
+      }
+    ],
+    "categories": [
+      "Electronics",
+      "Camera & Photo",
+      "Video Surveillance",
+      "..."
+    ],
+    "features": [
+      "【2K High Definition】Capture every detail inside your home with crystal-clear 2K high definition video with this indoor security camera. Easily see what your baby is holding or what your pet is playing with.Controller Type:Amazon Alexa;Android;Google Assistant.Connectivity protoco [...]",
+      "【Up, Down, All Around】This Pan/Tilt camera see everything across an entire room or walkway with the 360° horizontal and 114° vertical range pan/tilt field of view.",
+      "【Detection & Instant Notification】Get instant push notifications when motion, person or baby crying is detected, there is no additional fee to use it as a baby camera monitor. Discern from notifications that matter, so you'll know if its your pet playing around or if someone is actually there.",
+      "..."
+    ],
+    "description": null,
+    "images": [
+      "https://m.media-amazon.com/images/I/61qRnATTTJL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f3p4VelOL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51-pQxpEniL._AC_.jpg",
+      "..."
+    ],
+    "parent_asin": "B0D7QDGZLR",
+    "overview": {
+      "Recommended Uses For Product": "Indoor Security",
+      "Model Name": "Tapo Pan/Tilt Camera",
+      "Connectivity Technology": "Wireless",
+      "Special Feature": "Frame Rate, HD Resolution, Local Recording, Night Vision, PTZ Technology",
+      "Indoor/Outdoor Usage": "Indoor"
+    },
+    "details": {
+      "Other Special Features of the Product": "Frame Rate, HD Resolution, Local Recording, Night Vision, PTZ Technology",
+      "Indoor Outdoor Usage": "Indoor",
+      "Compatible Devices": "Smartphone, Tablet",
+      "Controller Type": "Amazon Alexa, Android, Google Assistant",
+      "Mount Type": "Wall Mount",
+      "Color": "White",
+      "Form Factor": "Dome",
+      "Installation Type": "Screw In",
+      "...": "46 more"
+    },
+    "delivery_location": "New York 10001",
+    "marketplace": "www.amazon.com",
+    "input": "B09Y8C185M",
+    "status": "ok",
+    "status_message": null
+  },
+  {
+    "asin": "0735211299",
+    "url": "https://www.amazon.com/dp/0735211299",
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "brand": null,
+    "authors": [
+      {
+        "name": "James Clear",
+        "role": "Author"
+      }
+    ],
+    "price": 18.22,
+    "currency": "USD",
+    "price_source": "buybox",
+    "list_price": 27,
+    "subscribe_save_price": null,
+    "used_price": 8.95,
+    "availability": "In Stock",
+    "rating": 4.8,
+    "reviews_count": 150571,
+    "bought_past_month": null,
+    "bought_past_month_min": null,
+    "best_sellers_rank": [
+      {
+        "rank": 170,
+        "category": "Books"
+      },
+      {
+        "rank": 1,
+        "category": "Parenting (Books)"
+      },
+      {
+        "rank": 1,
+        "category": "Popular Social Psychology & Interactions"
+      },
+      "..."
+    ],
+    "categories": [
+      "Books",
+      "Health, Fitness & Dieting",
+      "Psychology & Counseling",
+      "..."
+    ],
+    "features": [],
+    "description": null,
+    "images": [
+      "https://m.media-amazon.com/images/I/8106lPWfXpL._SL1500_.jpg"
+    ],
+    "parent_asin": "B084JQ4PGM",
+    "overview": {},
+    "details": {
+      "Publisher": "Avery",
+      "Publication date": "October 16, 2018",
+      "Edition": "First Edition",
+      "Language": "English",
+      "Print length": "320 pages",
+      "ISBN-10": "0735211299",
+      "ISBN-13": "978-0735211292",
+      "Item Weight": "1.13 pounds",
+      "...": "1 more"
+    },
+    "delivery_location": "New York 10001",
+    "marketplace": "www.amazon.com",
+    "input": "0735211299",
+    "status": "ok",
+    "status_message": null
+  }
+]
